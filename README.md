@@ -14,9 +14,12 @@
 
 ### 📘 Portfolio
 
-- **React, but with Reasons**  
-  React를 “패턴”이 아니라 **판단과 트레이드오프의 결과**로 바라보는 개인 아키텍처 노트  
-  👉 https://hthstudy.github.io/React-but-with-Reasons/
+- **Why-Driven Development**  
+  왜(Why)에 집착하는 개발자입니다.  
+저는 구현보다 판단을, 패턴보다 결정을 먼저 생각합니다.  
+이 문서는 개발 과정에서 내려진 선택들을 통해  
+사고의 기준을 남기기 위한 기록입니다.  
+  👉 [https://hthstudy.github.io/me/](https://hthstudy.github.io/me/)
 
 ---
 
